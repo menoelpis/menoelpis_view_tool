@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MenoElpisViewTool::Renderer.copyright 'Daniel Park', 'All rights reserved'
+```
 
 ## Development
 
